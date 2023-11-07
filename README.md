@@ -82,6 +82,10 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team.
 
+## Importing data into PowerBi
+
+- As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
+
 ## Data Model
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
@@ -90,6 +94,4 @@ After the project kick off meetings, the data engineering team has given the dat
 - In this project, we have followed Snowfall data modeling method.
 <img src="https://github.com/smrutiranjan-rout/Business-Insights-360/blob/main/Data%20Model.png" class="center">
 
-## Importing data into PowerBi
 
-- As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
