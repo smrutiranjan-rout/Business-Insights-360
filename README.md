@@ -88,7 +88,7 @@ After the project kick off meetings, the data engineering team has given the dat
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
-<img src="https://github.com/smrutiranjan-rout/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/smrutiranjan-rout/Business-Insights-360/blob/main/Data%20Model.png" class="center">
 
 ## Importing data into PowerBi
 
